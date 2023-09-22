@@ -2,7 +2,7 @@
 
 ## Overview
 
-EconoMetrics is designed to provide real-time, crowdsourced data on environmental quality metrics across different regions in Pakistan. The project starts with water quality and aims to expand into other areas like air quality, dairy safety, and noise pollution. This repository contains the codebase for the map and dashboard interface, built using Leaflet.
+EcoMetrics is designed to provide real-time, crowdsourced data on environmental quality metrics across different regions in Pakistan. The project starts with water quality and aims to expand into other areas like air quality, dairy safety, and noise pollution. This repository contains the codebase for the map and dashboard interface, built using Leaflet.
 
 ## Features
 
@@ -23,10 +23,10 @@ EconoMetrics is designed to provide real-time, crowdsourced data on environmenta
 
 ```bash
 # Clone the repository
-git clone https://github.com/[YourUsername]/EconoMetrics.git
+git clone https://github.com/[YourUsername]/EcoMetrics.git
 
 # Navigate to the project directory
-cd EconoMetrics
+cd EcoMetrics
 
 # Install dependencies
 npm install
