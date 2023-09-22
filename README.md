@@ -1,4 +1,4 @@
-# EconoMetrics: Crowdsourced Environmental Quality Monitoring
+# EcoMetrics: Crowdsourced Environmental Quality Monitoring
 
 ## Overview
 
